@@ -1,0 +1,7 @@
+{
+  "baseUrl": "https://translatetest.digihcs.com",
+  "chromeWebSecurity": false,
+  "viewportHeight": 700,
+  "viewportWidth": 1000,
+  "projectId": "4gabhx"
+}
